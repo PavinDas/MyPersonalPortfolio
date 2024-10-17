@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Personal Portfolio</h1>
 
-<p align="center"><img src="https://github.com/PavinDas/MyPersonalPortfolio/raw/master/images/home-bg.jpg" alt="project-image"></p>
+[<p align="center"><img src="https://github.com/PavinDas/MyPersonalPortfolio/raw/master/images/home-bg.jpg" alt="project-image"></p>](https://socialify.git.ci/PavinDas/MyPersonalPortfolio/image?font=Raleway&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
 
 <p id="description">My personal portfolio website using HTML CSS JavaScript</p>
 
