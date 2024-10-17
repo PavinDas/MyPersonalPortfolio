@@ -1,37 +1,45 @@
+<h1 align="center" id="title">Personal Portfolio</h1>
 
-# Personal Portfolio
+<p align="center"><img src="https://github.com/PavinDas/MyPersonalPortfolio/raw/master/images/home-bg.jpg" alt="project-image"></p>
 
-My Personal Portfolio Website Using HTML, CSS & Bootstrap
+<p id="description">My personal portfolio website using HTML CSS JavaScript</p>
 
+  
+  
+<h2>🧐 Features</h2>
 
-![Website](https://github.com/PavinDas/MyPersonalPortfolio/blob/master/images/home-bg.jpg)
+Here're some of the project's best features:
 
+*   Responsive
+*   Easy Navigation
+*   Live social media links
+*   Message submission form
+*   Active buttons
 
-## Installation
+<h2>🛠️ Installation Steps:</h2>
 
-Install my-project 
+<p>1. Clone this project file</p>
 
-```bash
-  git clone https://github.com/PavinDas/MyPersonalPortfolio
-  cd MyPersonalPortfolio
-  code .
 ```
-    
-## 🛠 Skills
-Javascript, HTML, CSS, Bootstrap...
+https://github.com/PavinDas/MyPersonalPortfolio/raw/master/images/home-bg.jpg
+```
 
+<p>2. Open folder on vscode</p>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://pavindas.github.io/MyPersonalPortfolio/))
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/pavin-das))
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/](https://twitter.com/pavin__das))
+```
+cd MyPersonalPortfolio
+code .
+```
 
+  
+  
+<h2>💻 Built with</h2>
 
-## Features
+Technologies used in the project:
 
-- Responsive
-- Active buttons
-- Live social media links
-- Message submission form
-- Cross platform
-
+*   HTML
+*   CSS
+*   JavaScript
+*   Bootstrap
+*   Git
+*   GitHub
