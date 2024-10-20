@@ -8,10 +8,6 @@
 
 [https://pavindas.github.io/MyPersonalPortfolio](https://pavindas.github.io/MyPersonalPortfolio)
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://github.com/PavinDas/MyPersonalPortfolio/raw/master/images/home-bg.jpg" alt="project-screenshot" width="400" height="400/">
-
   
   
 <h2>🧐 Features</h2>
